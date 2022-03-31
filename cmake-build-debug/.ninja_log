@@ -1,0 +1,9 @@
+# ninja log v5
+0	267	1648749152677564747	CMakeFiles/simple_calculator.dir/main.cpp.o	749f0af87ae0a2fb
+268	296	1648749152707781031	simple_calculator	fa7478c6a1542ab1
+1	264	1648749230044652572	CMakeFiles/simple_calculator.dir/main.cpp.o	749f0af87ae0a2fb
+264	291	1648749230073880793	simple_calculator	fa7478c6a1542ab1
+1	241	1648749418570601488	CMakeFiles/simple_calculator.dir/main.cpp.o	749f0af87ae0a2fb
+242	269	1648749418599402843	simple_calculator	fa7478c6a1542ab1
+1	255	1648749454215800814	CMakeFiles/simple_calculator.dir/main.cpp.o	749f0af87ae0a2fb
+255	283	1648749454245519566	simple_calculator	fa7478c6a1542ab1
